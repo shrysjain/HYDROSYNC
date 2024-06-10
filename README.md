@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/sWhRB0Y/image.png" align="right" width="280" height="280">
 
-HYDROSYNC is a 2-part product to help solve the issue of inadequate water consumption and. The device measures the amount of water present in a water bottle and notifies users when the bottle requires refilling, while tracking their water intake. It also sends mobile notifications to users about their water consumption, as well as reminders of when to drink water.
+HYDROSYNC is a 2-part product to help solve the issue of inadequate water consumption. The device measures the amount of water present in a water bottle and notifies users when the bottle requires refilling, while tracking their water intake. It also sends mobile notifications to users about their water consumption, as well as reminders of when to drink water.
 
 HYDROSYNC was created by Bera Gumruk, Shreyas Jain, and Arjun Kode.
 
